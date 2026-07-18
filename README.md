@@ -1,1 +1,1 @@
-# earning a GitHub badge
+# GitHub badge
